@@ -6,4 +6,6 @@
 
 4 git commit -m "Message": Add the staged file to local repository
 
-5  git push
+5  git remote : Create a git repository and paste the link local host
+
+
