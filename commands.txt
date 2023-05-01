@@ -1,2 +1,9 @@
 1 git init: Initializing git
 
+2 git status: It will list all the untracked files
+
+3 git add -a: Adding changes to staging area
+
+4 git commit -m "Message": Add the staged file to local repository
+
+5  git push
